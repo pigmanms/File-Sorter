@@ -1,0 +1,4 @@
+1. JRE(java runtime environment)없이 실행 될 수 있도록 해야함. 
+2. .jar 또는 .exe로 변환 시도
+3. 인식할 filetype추가(확장명)(ex) .html, .css, .cmd, etc.....), 및 추가 분류 추가
+4. array 또는 list로 코드 최적화 시도(기존 방식 탈피를 위함)
