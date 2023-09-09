@@ -8,7 +8,7 @@ import java.nio.file.StandardCopyOption;
 import java.util.Scanner;
 
 /**
- * So far, this code can only being execute in terminal.
+ * So far, this code can only being executed in terminal.
  *
  * Working on UI materialization.
 */
