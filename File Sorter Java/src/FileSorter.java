@@ -112,6 +112,10 @@ public class FileSorter {
     }
 }
 
+//FIXME: when insert <"C:\Users\Owner\Downloads">, program returns
+// <Source folder does not exist or is not a directory.>,
+// should make <"C:\Users\Owner\Downloads"> also detectable.
 
+//example: insert something as C:\Users\Owner\Downloads
 
 //by Pigman_MS(known as CaptainPMS, Kansas)
