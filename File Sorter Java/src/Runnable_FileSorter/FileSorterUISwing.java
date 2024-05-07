@@ -56,7 +56,7 @@ public class FileSorterUISwing extends JFrame {
 
                 }
             }
-        });
+        }); //sourceFolderDirectortResult String형식? String형식으로도 디렉토리로 감지 ㄱㄴ? 
 
 
         mainFrame.add(selectSourceFolderLocationButton);
