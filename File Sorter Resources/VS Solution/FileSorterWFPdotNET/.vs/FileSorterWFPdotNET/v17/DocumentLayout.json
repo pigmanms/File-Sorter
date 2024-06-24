@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Github Local REPO\\Java-File-Sorter\\File Sorter Java\\VS Solution\\FileSorterWFPdotNET\\",
+  "WorkspaceRootPath": "D:\\Github Local REPO\\File-Sorter\\File Sorter Resources\\VS Solution\\FileSorterWFPdotNET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{59AC3460-4A58-4B65-93A0-C546E26A7C1E}|FileSorterWFPdotNET.csproj|d:\\github local repo\\java-file-sorter\\file sorter java\\vs solution\\filesorterwfpdotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{59AC3460-4A58-4B65-93A0-C546E26A7C1E}|FileSorterWFPdotNET.csproj|d:\\github local repo\\file-sorter\\file sorter resources\\vs solution\\filesorterwfpdotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59AC3460-4A58-4B65-93A0-C546E26A7C1E}|FileSorterWFPdotNET.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59AC3460-4A58-4B65-93A0-C546E26A7C1E}|FileSorterWFPdotNET.csproj|D:\\Github Local REPO\\Java-File-Sorter\\File Sorter Java\\VS Solution\\FileSorterWFPdotNET\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{59AC3460-4A58-4B65-93A0-C546E26A7C1E}|FileSorterWFPdotNET.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{59AC3460-4A58-4B65-93A0-C546E26A7C1E}|FileSorterWFPdotNET.csproj|d:\\github local repo\\file-sorter\\file sorter resources\\vs solution\\filesorterwfpdotnet\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{59AC3460-4A58-4B65-93A0-C546E26A7C1E}|FileSorterWFPdotNET.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{59AC3460-4A58-4B65-93A0-C546E26A7C1E}|FileSorterWFPdotNET.csproj|D:\\Github Local REPO\\Java-File-Sorter\\File Sorter Java\\VS Solution\\FileSorterWFPdotNET\\program.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "AbsoluteMoniker": "D:0:0:{59AC3460-4A58-4B65-93A0-C546E26A7C1E}|FileSorterWFPdotNET.csproj|D:\\Github Local REPO\\File-Sorter\\File Sorter Resources\\VS Solution\\FileSorterWFPdotNET\\program.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
       "RelativeMoniker": "D:0:0:{59AC3460-4A58-4B65-93A0-C546E26A7C1E}|FileSorterWFPdotNET.csproj|solutionrelative:program.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     }
   ],
@@ -22,19 +22,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Github Local REPO\\Java-File-Sorter\\File Sorter Java\\VS Solution\\FileSorterWFPdotNET\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Github Local REPO\\Java-File-Sorter\\File Sorter Java\\VS Solution\\FileSorterWFPdotNET\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T02:15:11.21Z",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Github Local REPO\\File-Sorter\\File Sorter Resources\\VS Solution\\FileSorterWFPdotNET\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\Github Local REPO\\File-Sorter\\File Sorter Resources\\VS Solution\\FileSorterWFPdotNET\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-24T05:47:48.921Z",
               "EditorCaption": ""
             },
             {
@@ -43,26 +43,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.resx",
-              "DocumentMoniker": "D:\\Github Local REPO\\Java-File-Sorter\\File Sorter Java\\VS Solution\\FileSorterWFPdotNET\\Program.resx",
-              "RelativeDocumentMoniker": "Program.resx",
-              "ToolTip": "D:\\Github Local REPO\\Java-File-Sorter\\File Sorter Java\\VS Solution\\FileSorterWFPdotNET\\Program.resx",
-              "RelativeToolTip": "Program.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2024-06-24T02:18:02.097Z"
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github Local REPO\\File-Sorter\\File Sorter Resources\\VS Solution\\FileSorterWFPdotNET\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Github Local REPO\\File-Sorter\\File Sorter Resources\\VS Solution\\FileSorterWFPdotNET\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T02:15:11.21Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs [Design]",
-              "DocumentMoniker": "D:\\Github Local REPO\\Java-File-Sorter\\File Sorter Java\\VS Solution\\FileSorterWFPdotNET\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Github Local REPO\\Java-File-Sorter\\File Sorter Java\\VS Solution\\FileSorterWFPdotNET\\Program.cs [Design]",
-              "RelativeToolTip": "Program.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T02:15:23.45Z",
-              "EditorCaption": " [Design]"
+              "DocumentIndex": 2,
+              "Title": "Program.resx",
+              "DocumentMoniker": "D:\\Github Local REPO\\File-Sorter\\File Sorter Resources\\VS Solution\\FileSorterWFPdotNET\\Program.resx",
+              "RelativeDocumentMoniker": "Program.resx",
+              "ToolTip": "D:\\Github Local REPO\\File-Sorter\\File Sorter Resources\\VS Solution\\FileSorterWFPdotNET\\Program.resx",
+              "RelativeToolTip": "Program.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-24T02:18:02.097Z",
+              "EditorCaption": ""
             }
           ]
         }

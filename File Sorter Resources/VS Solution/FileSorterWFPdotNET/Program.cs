@@ -28,7 +28,7 @@ namespace FileSorter
     public partial class Form1 : Form
     {
         private string sourceFolderDirectory;
-        private string destinationFolderDirectory;
+        private string destinationFolderDirectory; 
 
         public Form1()
         {
