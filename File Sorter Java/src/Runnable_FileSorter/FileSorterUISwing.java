@@ -1,6 +1,7 @@
 package Runnable_FileSorter;
 
 import javax.swing.*;
+import javax.tools.JavaFileObject;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -18,7 +19,7 @@ public class FileSorterUISwing extends JFrame {
         mainFrame.setSize(500, 600);
         mainFrame.setLocationRelativeTo(null); //Center the window
         mainFrame.setVisible(true);
-        mainFrame.setLayout(new BoxLayout(mainFrame, BoxLayout.LINE_AXIS) ); //FIXME: WTF IS THIS???
+        //mainFrame.setLayout(new BoxLayout(mainFrame, BoxLayout.LINE_AXIS) ); //FIXME: WTF IS THIS???
 
         JButton selectSourceFolderLocationButton = new JButton("Select the source folder location");
         JButton selectDestinationFolderLocationButton = new JButton("Select the destination folder location");
@@ -54,14 +55,14 @@ public class FileSorterUISwing extends JFrame {
                     String sourceFolderDirectoryResult = destinationDirectoryChooser.getSelectedFile().getAbsolutePath();
                     JOptionPane.showMessageDialog(mainFrame, "Selected SourceFolder Directory: \n" + sourceFolderDirectoryResult);
 
+
                 }
             }
         });
 
-
         mainFrame.add(selectSourceFolderLocationButton);
         mainFrame.add(selectDestinationFolderLocationButton);
-        mainFrame.add(RunTheJobButton);
+        //mainFrame.add(RunTheJobButton);
 
 
 

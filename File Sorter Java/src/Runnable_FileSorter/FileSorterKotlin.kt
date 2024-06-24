@@ -42,6 +42,7 @@ object FileSorterKotlin : JFrame() {
                 )
             }
         }
+
         mainFrame.add(selectSourceFolderLocationButton)
         mainFrame.add(selectDestinationFolderLocationButton)
         mainFrame.add(RunTheJobButton)

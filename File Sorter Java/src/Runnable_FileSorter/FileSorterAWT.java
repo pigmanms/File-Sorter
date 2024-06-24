@@ -4,6 +4,8 @@ import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
+//FIXME: Is this the AWT? looks like Swing...
+
 public class FileSorterAWT extends JFrame {
     public static void main(String [] args) {
         JFrame mainFrame = new JFrame("File Sorter v20240503_CE");

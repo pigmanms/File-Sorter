@@ -1,0 +1,14 @@
+D:\Github Local REPO\Java-File-Sorter\File Sorter Java\VS Solution\FileSorterWFPdotNET\obj\Debug\FileSorterWFPdotNET.csproj.AssemblyReference.cache
+D:\Github Local REPO\Java-File-Sorter\File Sorter Java\VS Solution\FileSorterWFPdotNET\obj\Debug\FileSorterWFPdotNET.Properties.Resources.resources
+D:\Github Local REPO\Java-File-Sorter\File Sorter Java\VS Solution\FileSorterWFPdotNET\obj\Debug\FileSorterWFPdotNET.csproj.GenerateResource.cache
+D:\Github Local REPO\Java-File-Sorter\File Sorter Java\VS Solution\FileSorterWFPdotNET\obj\Debug\FileSorterWFPdotNET.csproj.CoreCompileInputs.cache
+D:\Github Local REPO\Java-File-Sorter\File Sorter Java\VS Solution\FileSorterWFPdotNET\bin\Debug\FileSorterWFPdotNET.exe.config
+D:\Github Local REPO\Java-File-Sorter\File Sorter Java\VS Solution\FileSorterWFPdotNET\bin\Debug\FileSorterWFPdotNET.exe
+D:\Github Local REPO\Java-File-Sorter\File Sorter Java\VS Solution\FileSorterWFPdotNET\bin\Debug\FileSorterWFPdotNET.pdb
+D:\Github Local REPO\Java-File-Sorter\File Sorter Java\VS Solution\FileSorterWFPdotNET\obj\Debug\FileSorter.Program.resources
+D:\Github Local REPO\Java-File-Sorter\File Sorter Java\VS Solution\FileSorterWFPdotNET\obj\Debug\FileSorterWFPdotNET.exe
+D:\Github Local REPO\Java-File-Sorter\File Sorter Java\VS Solution\FileSorterWFPdotNET\obj\Debug\FileSorterWFPdotNET.pdb
+D:\Github Local REPO\Java-File-Sorter\File Sorter Java\VS Solution\FileSorterWFPdotNET\bin\Debug\FileSorterWFPdotNET.exe.manifest
+D:\Github Local REPO\Java-File-Sorter\File Sorter Java\VS Solution\FileSorterWFPdotNET\bin\Debug\FileSorterWFPdotNET.application
+D:\Github Local REPO\Java-File-Sorter\File Sorter Java\VS Solution\FileSorterWFPdotNET\obj\Debug\FileSorterWFPdotNET.exe.manifest
+D:\Github Local REPO\Java-File-Sorter\File Sorter Java\VS Solution\FileSorterWFPdotNET\obj\Debug\FileSorterWFPdotNET.application
