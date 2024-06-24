@@ -1,0 +1,14 @@
+D:\Github Local REPO\File-Sorter\File Sorter Resources\VS Solution\FileSorterWFPdotNET\bin\Release\FileSorterWFAdotNET.exe.config
+D:\Github Local REPO\File-Sorter\File Sorter Resources\VS Solution\FileSorterWFPdotNET\bin\Release\FileSorterWFAdotNET.exe.manifest
+D:\Github Local REPO\File-Sorter\File Sorter Resources\VS Solution\FileSorterWFPdotNET\bin\Release\FileSorterWFAdotNET.application
+D:\Github Local REPO\File-Sorter\File Sorter Resources\VS Solution\FileSorterWFPdotNET\bin\Release\FileSorterWFAdotNET.exe
+D:\Github Local REPO\File-Sorter\File Sorter Resources\VS Solution\FileSorterWFPdotNET\bin\Release\FileSorterWFAdotNET.pdb
+D:\Github Local REPO\File-Sorter\File Sorter Resources\VS Solution\FileSorterWFPdotNET\obj\Release\FileSorterWFPdotNET.csproj.AssemblyReference.cache
+D:\Github Local REPO\File-Sorter\File Sorter Resources\VS Solution\FileSorterWFPdotNET\obj\Release\FileSorter.Program.resources
+D:\Github Local REPO\File-Sorter\File Sorter Resources\VS Solution\FileSorterWFPdotNET\obj\Release\FileSorterWFAdotNET.Properties.Resources.resources
+D:\Github Local REPO\File-Sorter\File Sorter Resources\VS Solution\FileSorterWFPdotNET\obj\Release\FileSorterWFPdotNET.csproj.GenerateResource.cache
+D:\Github Local REPO\File-Sorter\File Sorter Resources\VS Solution\FileSorterWFPdotNET\obj\Release\FileSorterWFPdotNET.csproj.CoreCompileInputs.cache
+D:\Github Local REPO\File-Sorter\File Sorter Resources\VS Solution\FileSorterWFPdotNET\obj\Release\FileSorterWFAdotNET.exe.manifest
+D:\Github Local REPO\File-Sorter\File Sorter Resources\VS Solution\FileSorterWFPdotNET\obj\Release\FileSorterWFAdotNET.application
+D:\Github Local REPO\File-Sorter\File Sorter Resources\VS Solution\FileSorterWFPdotNET\obj\Release\FileSorterWFAdotNET.exe
+D:\Github Local REPO\File-Sorter\File Sorter Resources\VS Solution\FileSorterWFPdotNET\obj\Release\FileSorterWFAdotNET.pdb

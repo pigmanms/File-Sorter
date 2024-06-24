@@ -25,7 +25,7 @@ public class FileSorterUIGridBagLayout extends JFrame {
     }
 
     public FileSorterUIGridBagLayout() {
-        setTitle("File Sorter v20240503_CE");
+        setTitle("File Sorter v20240624_Release");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setSize(500, 300);
         setLocationRelativeTo(null);
