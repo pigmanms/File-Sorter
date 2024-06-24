@@ -1,8 +1,9 @@
 # File-Sorter
-This specifies the pathname of the destination folder and categorizes the files in that specified folder by file type. 
+Specifies your file by inserting source folder directory and destination folder directory and the program do its works, and your files are categorizes with folders sorted by file type. 
 
 
-Example: 
+Example:
+
 
 (Insert photo here)
 
